@@ -20,4 +20,4 @@ Analyzed 3,900 customer transactions to uncover insights into spending behavior,
 - Prioritize high-performing products in marketing  
 
 ## 🛠️ Tech Stack
-Python | SQL Server | PostgreSQL | Power BI  
+Python | SQL Server | Power BI  
